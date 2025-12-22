@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\03.bll\\bll\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|solutionrelative:03.bll\\bll\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\03.bll\\bll\\concrete\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|solutionrelative:03.bll\\bll\\concrete\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\03.bll\\bll\\mapper\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|solutionrelative:03.bll\\bll\\mapper\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\views\\customer\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\views\\customer\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\01.entities\\entities\\dtos\\customerdtos\\customerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|solutionrelative:01.entities\\entities\\dtos\\customerdtos\\customerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\01.entities\\entities\\dtos\\accountdtos\\accountlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|solutionrelative:01.entities\\entities\\dtos\\accountdtos\\accountlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\01.entities\\entities\\dtos\\customerdtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|solutionrelative:01.entities\\entities\\dtos\\customerdtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\bankmvc\\views\\customer\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F874BCF-07C6-8CF0-A2A8-BCD0F5F13A59}|BankMVC\\BankMVC.csproj|solutionrelative:bankmvc\\views\\customer\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\banksystem\\banksystem\\bank\\01.entities\\entities\\dtos\\customerdtos\\customeradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|solutionrelative:01.entities\\entities\\dtos\\customerdtos\\customeradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T21:03:36.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\03.BLL\\BLL\\Concrete\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "03.BLL\\BLL\\Concrete\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\03.BLL\\BLL\\Concrete\\CustomerManager.cs",
+              "RelativeToolTip": "03.BLL\\BLL\\Concrete\\CustomerManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwE0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:59:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\03.BLL\\BLL\\Concrete\\AccountManager.cs",
+              "RelativeDocumentMoniker": "03.BLL\\BLL\\Concrete\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\03.BLL\\BLL\\Concrete\\AccountManager.cs",
+              "RelativeToolTip": "03.BLL\\BLL\\Concrete\\AccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:59:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\03.BLL\\BLL\\Mapper\\Map.cs",
+              "RelativeDocumentMoniker": "03.BLL\\BLL\\Mapper\\Map.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\03.BLL\\BLL\\Mapper\\Map.cs",
+              "RelativeToolTip": "03.BLL\\BLL\\Mapper\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:53:04.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\AccountDTOs\\AccountListDTO.cs",
+              "RelativeDocumentMoniker": "01.Entities\\Entities\\DTOs\\AccountDTOs\\AccountListDTO.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\AccountDTOs\\AccountListDTO.cs",
+              "RelativeToolTip": "01.Entities\\Entities\\DTOs\\AccountDTOs\\AccountListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:37:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerListDTO.cs",
+              "RelativeDocumentMoniker": "01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerListDTO.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerListDTO.cs",
+              "RelativeToolTip": "01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:35:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BankMVC\\Views\\Customer\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Detail.cshtml",
+              "RelativeToolTip": "BankMVC\\Views\\Customer\\Detail.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T20:34:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BankMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BankMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:33:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "RelativeDocumentMoniker": "01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "RelativeToolTip": "01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:24:32.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BankMVC\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "BankMVC\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T20:24:01.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BankMVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BankMVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:23:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankMVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "BankMVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T20:21:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Add.cshtml",
+              "RelativeDocumentMoniker": "BankMVC\\Views\\Customer\\Add.cshtml",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\BankMVC\\Views\\Customer\\Add.cshtml",
+              "RelativeToolTip": "BankMVC\\Views\\Customer\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T20:17:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerAddDTO.cs",
+              "RelativeDocumentMoniker": "01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerAddDTO.cs",
+              "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\BankSystem\\banksystem\\Bank\\01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerAddDTO.cs",
+              "RelativeToolTip": "01.Entities\\Entities\\DTOs\\CustomerDTOs\\CustomerAddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:18:37.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

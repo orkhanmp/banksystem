@@ -1,0 +1,45 @@
+﻿@using Entities.DTOs.AccountDTOs
+@using Entities.DTOs.CustomerDTOs
+@model AccountAddDTO
+
+<h2>Add Account</h2>
+
+<form asp-controller="Account" asp-action="Add" method="post">
+    <div class="form-group">
+        <label>AccountNumber</label>
+        <input type="text" name="AccountNumber" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>AccountType</label>
+        <input type="text" name="AccountType" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>Balance</label>
+        <input type="number"
+               name="Balance"
+               class="form-control"
+               step="0.01"
+               min="0"
+               required />
+    </div>
+
+    <div class="form-group">
+        <label>Customer</label>
+        <select name="CustomerId" class="form-control" required>
+            <option value="">-- Select Customer --</option>
+            @if (ViewBag.Customers != null)
+            {
+                @foreach (var customer in ViewBag.Customers as List<CustomerListDTO>)
+                {
+                    <option value="@customer.Id">@customer.FirstName @customer.LastName</option>
+                }
+            }
+        </select>
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-controller="Account" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
