@@ -1,4 +1,6 @@
 ﻿using Entities.TableModels;
+using Entities.TableModels.Membership;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,12 +10,30 @@ using System.Threading.Tasks;
 
 namespace DAL.DataBase
 {
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext: IdentityDbContext<AppUser, AppRole, int>
     {
+        public ApplicationDbContext()
+        {
+            
+        }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        : base(options)
+        {
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=localhost;Database=BankingSystemDb;Trusted_Connection=True; TrustServerCertificate=True;");
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer("Server=localhost;Database=BankingSystemDb;Trusted_Connection=True; TrustServerCertificate=True;");
+            }
         }
+
+        //public ApplicationDbContext(
+        //DbContextOptions<ApplicationDbContext> options)
+        //: base(options)
+        //{
+        //}
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

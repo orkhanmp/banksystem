@@ -12,6 +12,7 @@ namespace DAL.Concrete
 {
     public class AccountDAL: BaseRepository<Account, ApplicationDbContext>, IAccountDAL
     {
+
         public List<Account> GetAllWithCustomer()
         {
             using (var context = new ApplicationDbContext())

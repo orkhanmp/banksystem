@@ -1,0 +1,62 @@
+﻿@using Entities.DTOs.CustomerDTOs
+@model CustomerListDTO
+
+<h2>Customer Details</h2>
+
+<div class="card" style="padding: 20px; margin-bottom: 20px;">
+    <h3>@Model.FirstName @Model.LastName</h3>
+    <p><strong>Age:</strong> @Model.Age</p>
+    <p><strong>City:</strong> @Model.City</p>
+    <p><strong>Total Accounts:</strong> @(Model.AccountCount)</p>
+</div>
+
+@if (Model.Accounts != null && Model.Accounts.Any())
+{
+    <h4>Accounts:</h4>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+            text-align: left;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+
+    <table>
+        <thead>
+            <tr>
+                <th>AccountNumber</th>
+                <th>AccountType</th>
+                <th>Balance</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var account in Model.Accounts)
+            {
+                <tr>
+                    <td>@account.AccountNumber</td>
+                    <td>@account.AccountType</td>
+                    <td>@account.Balance</td>
+                    <td><a asp-controller="Account" asp-action="Edit" asp-route-id="@account.Id" class="btn btn-sm btn-info">View/Edit</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No account for this customer yet.</p>
+}
+
+<br />
+<a asp-controller="Customer" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit Customer</a>
+<a asp-controller="Customer" asp-action="Index" class="btn btn-secondary">Back to Customers</a>
